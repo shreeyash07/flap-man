@@ -1,8 +1,3 @@
-// canvas design
-
-
-
-
 
 function draw() {
     
